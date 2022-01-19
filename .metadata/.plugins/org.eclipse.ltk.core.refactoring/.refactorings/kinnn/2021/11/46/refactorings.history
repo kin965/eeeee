@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="リソース名 &apos;kinnn/src/kinnn/S005.java&apos; を &apos;S505.java&apos; に変更します" description="リソース &apos;S005.java&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/kinnn/S005.java" name="S505.java" stamp="1636363032145" updateReferences="true"/>&#x0A;<refactoring comment="リソース名 &apos;kinnn/src/kinnn/YH001.java&apos; を &apos;S508.java&apos; に変更します" description="リソース &apos;YH001.java&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/kinnn/YH001.java" name="S508.java" stamp="1636553334631" updateReferences="true"/>
+</session>

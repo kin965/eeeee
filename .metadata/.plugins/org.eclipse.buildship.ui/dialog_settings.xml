@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="project_location" value="D:\pleiades-2021-09-java-win-64bit-jre_20210919\pleiades\workspace\test"/>
+		<item key="use_default_location" value="true"/>
+		<item key="apply_working_sets" value="true"/>
+		<list key="arguments">
+			<item value="wrapper"/>
+			<item value="--gradle-version=7.2"/>
+			<item value="--init-script"/>
+			<item value="../.metadata/init.gradle"/>
+		</list>
+		<list key="working_sets">
+		</list>
+	</section>
+</section>

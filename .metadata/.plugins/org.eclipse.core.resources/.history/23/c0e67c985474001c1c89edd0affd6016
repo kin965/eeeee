@@ -1,0 +1,17 @@
+package io01;
+
+public class Equals {
+
+	public static void main(String[] args) {
+
+		String a = "今天是个好日子";
+		String b = "是个";
+		if (b.contains(a)) {
+			System.out.println("you");
+
+		} else {
+			System.out.println("wu");
+		}
+	}
+
+}

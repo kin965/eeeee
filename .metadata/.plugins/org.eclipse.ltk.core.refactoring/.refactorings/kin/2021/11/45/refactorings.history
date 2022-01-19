@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;kin.EH001.main(...)&apos; のローカル変数の名前を &apos;product&apos; から &apos;plus&apos; に変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;kin&apos;&#x0D;&#x0A;- オリジナル要素: &apos;kin.EH001.main(String[]).product&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;product&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="ローカル変数名 &apos;product&apos; の変更" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;kin{EH001.java[EH001~main~\[QString;@product!81!96!85!91!I!0!false" name="plus" references="true" stamp="1636180600024" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+package io01;
+
+public class Equals {
+
+	public static void main(String[] args) {
+
+		String a = "aaasssjhnwiusdjn";
+		String b = "as";
+		if (a.equals(b)) {
+			System.out.println("you");
+
+		} else {
+			System.out.println("wu");
+		}
+	}
+
+}

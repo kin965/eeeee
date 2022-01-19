@@ -1,0 +1,29 @@
+package io01;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class IoReader01 {
+	public static void main(String []args) {
+		File file = new File("C:\\Users\\jinch\\OneDrive\\デスクトップ\\text.txt");
+
+		try {
+			FileReader fr = new FileReader(file);
+			BufferedReader br = new BufferedReader(fr);
+			String line;
+			while ((line = br.readLine()) != null) {
+				System.out.println(line);
+//				String[] vs = line.split(",");
+//
+//				System.out.println(vs[1]);
+			}
+		} catch (IOException e) {
+			// TODO 自動生成された catch ブロック
+			e.printStackTrace();
+		}
+		
+	}
+	
+}
